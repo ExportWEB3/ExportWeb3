@@ -1,24 +1,47 @@
-<h1 align="center">Hi 👋, I'm Emmanuel(Export)</h1>
-<h3 align="center">A passionate Fullstack developer from Nigeria</h3>
+# Hi 👋, I'm Emmanuel (Export)
 
-<p align="left"> <a href="https://twitter.com/web3_export" target="blank"><img src="https://img.shields.io/twitter/follow/web3_export?logo=twitter&style=for-the-badge" alt="web3_export" /></a> </p>
+### A passionate Fullstack Developer from Nigeria 🇳🇬
 
-- 🔭 I’m currently working on [An AI integrated Ad website](Still in process but can be viwed via media or on request)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/web3_export?style=social)](https://twitter.com/web3_export)
 
-- 🌱 I’m currently learning **Backend**
+---
 
-- 📝 I regularly write articles on [X (Formerly knows as Twitter)](X (Formerly knows as Twitter))
+### 🛠️ What I'm Working On:
+- 🎯 Currently building [**An AI-integrated Ad website**]  
+  _(Still in progress, but available on request or via media)_
 
-- 💬 Ask me about **react,JavaScript,typescript**
+### 🌱 Currently Learning:
+- Backend development with **Express.js** and **MongoDB**
 
-- 📫 How to reach me **emmanuel00timi@gmail.com**
+### ✍️ I Also Write:
+- Articles on [X (Formerly Twitter)](https://twitter.com/web3_export)
 
-- ⚡ Fun fact **I think I am funny but I’ve not had time to practice my jokes.**
+### 💬 Ask Me About:
+- `React`, `JavaScript`, `TypeScript`
 
-<h3 align="left">Connect with me:</h3>
+### 📫 How to Reach Me:
+- **Email:** [emmanuel00timi@gmail.com](mailto:emmanuel00timi@gmail.com)
+
+### ⚡ Fun Fact:
+> I think I'm funny, but I haven’t had time to practice my jokes yet. 😅
+
+---
+
+## 🌐 Connect With Me:
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/web3_export)
+
+---
+
+## 🧰 Languages and Tools:
 <p align="left">
-<a href="https://twitter.com/web3_export" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="web3_export" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
