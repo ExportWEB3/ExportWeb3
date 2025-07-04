@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ What I'm Working On:
-- 🎯 Currently building [**An AI-integrated Ad website**]  
+- 🎯 
   _(Still in progress, but available on request or via media)_
 
 ### 🌱 Currently Learning:
