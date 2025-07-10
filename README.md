@@ -1,6 +1,6 @@
 # Hi 👋, I'm Emmanuel (Export)
 
-### A passionate Fullstack Developer from Nigeria 🇳🇬
+### A Fullstack Developer from Nigeria 🇳🇬
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/web3_export?style=social)](https://twitter.com/web3_export)
 
