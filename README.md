@@ -10,9 +10,6 @@
 - 🎯 
   _(Still in progress, but available on request or via media)_
 
-### 🌱 Currently Learning:
-- Backend development with **Express.js** and **MongoDB**
-
 ### ✍️ I Also Write:
 - Articles on [X (Formerly Twitter)](https://twitter.com/web3_export)
 
